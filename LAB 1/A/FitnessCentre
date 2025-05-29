@@ -26,14 +26,14 @@ public class GymMembershipManager {
 
 Output:-
 Welcome to the Gym Membership Management System!
-Enter member name: David
+Enter member name: Anshul
 Enter member age: 20
 Is the membership active? (true/false): true
-Enter membership duration (in months): 12
+Enter membership duration (in months): 6
 
 Member Details:
-Name: David
+Name: Anshul
 Age: 20
 Membership Status: Active
 Membership Duration: 12 months
-Membership Fee: $600.0
+Membership Fee: $300.0
